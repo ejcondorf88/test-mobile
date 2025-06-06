@@ -133,6 +133,15 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 
 ## ✨ Agradecimientos
 
+
 - [HuggingFace](https://huggingface.co/) por los modelos de IA
 - [FastAPI](https://fastapi.tiangolo.com/) por el framework del backend
-- [React](https://reactjs.org/) por el framework del frontend 
+- [React](https://reactjs.org/) por el framework del frontend
+
+
+![image](https://github.com/user-attachments/assets/ffd38f78-f775-43de-938a-6387ebc68fbf)
+![image](https://github.com/user-attachments/assets/aa5e3f2e-adb8-429a-b1c0-9ca4b3f7c648)
+
+
+
+
